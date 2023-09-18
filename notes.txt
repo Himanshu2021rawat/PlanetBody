@@ -1,0 +1,5 @@
+DARK MODE COLOR:
+1.light:#F4F0ED
+2.dark:#222222
+3.<i class="ri-sun-line"></i> sun
+4.<i class="ri-moon-fill"></i> moon
